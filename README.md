@@ -1,5 +1,6 @@
 # Project Comment System
 This is a project for study purpose, that allows creating and list nested comments.
+
 ##Getting started
 
 Please check the official laravel installation guide for server requirements before you start. [Official Documentation](https://laravel.com/docs/8.x)
