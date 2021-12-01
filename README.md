@@ -39,7 +39,7 @@ Start the local development server
 
     php artisan serve
 
-###Test
+### Test
 
 To run all unit tests just execute the follow command
 
