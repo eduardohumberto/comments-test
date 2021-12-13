@@ -1,7 +1,7 @@
 # Project Comment System
 This is a project for study purpose, that allows creating and list nested comments.
 
-##Getting started
+## Getting started
 
 Please check the official laravel installation guide for server requirements before you start. [Official Documentation](https://laravel.com/docs/8.x)
 
@@ -39,7 +39,7 @@ Start the local development server
 
     php artisan serve
 
-###Test
+### Test
 
 To run all unit tests just execute the follow command
 
